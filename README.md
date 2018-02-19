@@ -1,0 +1,2 @@
+# myslave
+to familiarize git
